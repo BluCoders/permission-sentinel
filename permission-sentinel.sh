@@ -5,7 +5,7 @@
 
 
 # Some variables!
-logpath="/var/log/permission-sentinel/public-share"
+logpath=""
 chown_t=0
 dir_t=0
 file_t=0
